@@ -1,4 +1,4 @@
-## Hi there, I'm Dewansh Shaekhar Singh! 👋  
+## Hi there, I'm Dewansh Shekhar Singh! 👋  
 
 🚀 **Tech Enthusiast | AI/ML Developer | Full Stack Web Dev | Hackathon Organizer & Winner**  
 
