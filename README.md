@@ -19,9 +19,7 @@
 ### 🏆 Hackathon Achievements:
 
 🔥 **Attended 15+ Hackathons**
-
 🎖️ **Finalist - Codes Kshetra 2.0**
-
 🥇 **4th Place Winner - MUJ Hacx4.0**  
 🏅 **Top 15 Finalist - BrainWave DTU Hackathon**  
 🚀 **Organizer - Geekathon (24-Hour Hackathon at KRMU)**  
