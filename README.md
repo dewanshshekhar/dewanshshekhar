@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DewanshShaekhar&color=blue)
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
 
 ### 🛠️ ⚡ 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀:
 
@@ -28,6 +28,7 @@
 🏅 **𝒯𝑜𝓅 15 𝐹𝒾𝓃𝒶𝓁𝒾𝓈𝓉 - 𝐵𝓇𝒶𝒾𝓃𝒲𝒶𝓋𝑒 𝒟𝒯𝒰 𝐻𝒶𝒸𝓀𝒶𝓉𝒽𝑜𝓃**  
 🚀 **𝒪𝓇𝑔𝒶𝓃𝒾𝓏𝑒𝓇 - 𝒢𝑒𝑒𝓀𝒶𝓉𝒽𝑜𝓃 (24-𝐻𝑜𝓊𝓇 𝐻𝒶𝒸𝓀𝒶𝓉𝒽𝑜𝓃 𝒶𝓉 𝒦𝑅𝑀𝒰)**  
 🌍 **𝒪𝓇𝑔𝒶𝓃𝒾𝓏𝑒𝓇 - 𝒫𝑒𝒶𝓇𝓈 𝒢𝓁𝑜𝒷𝒶𝓁 𝐻𝒶𝒸𝓀𝒶𝓉𝒽𝑜𝓃**  
+
 
 ### 📫 ✨ 𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝒲𝒾𝓉𝒽 𝑀𝑒:
 
