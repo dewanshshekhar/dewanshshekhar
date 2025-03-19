@@ -57,18 +57,7 @@ I love participating in hackathons and building cool projects!
 
 ---
 
-## 📊 GitHub Stats:
-![Dewansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DewanshShaekhar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DewanshShaekhar&layout=compact&theme=radical)
 
----
-
-🔝 **Top Contributed Repos:**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DewanshShaekhar&repo=MedTracker&theme=radical)](https://github.com/DewanshShaekhar/MedTracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DewanshShaekhar&repo=AI-Coding-Recommendation&theme=radical)](https://github.com/DewanshShaekhar/AI-Coding-Recommendation)
-
----
 
 💻 **"𝒞𝑜𝒹𝑒, 𝐼𝓃𝓃𝑜𝓋𝒶𝓉𝑒, 𝒶𝓃𝒹 𝐵𝓊𝒾𝓁𝒹 𝒻𝑜𝓇 𝒶 𝐵𝑒𝓉𝓉𝑒𝓇 𝒯𝑜𝓂𝑜𝓇𝓇𝑜𝓌!"** 🚀
 
-<img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100%">
