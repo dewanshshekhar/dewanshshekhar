@@ -4,35 +4,68 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DewanshShaekhar&color=blue)
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
+## 💫 About Me:
+🔭 **I’m currently working on:**
+Building AI-based coding challenge recommendation systems & full-stack applications.
 
-### 🛠️ ⚡ 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀:
+👯 **I’m looking to collaborate on:**
+AI/ML projects, Hackathons, and Open Source contributions.
 
+🌱 **I’m currently learning:**
+Generative AI, Cloud Computing, and Advanced Frontend Animations.
+
+💬 **Ask me about:**
+Python, JavaScript, AI/ML, React, Node.js, and Cloud Technologies.
+
+⚡ **Fun fact:**
+I love participating in hackathons and building cool projects!
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DewanshShaekhar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DewanshShaekhar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DewanshShaekhar)
+
+---
+
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-### 🏆 🌟 𝒜𝒸𝒽𝒾𝑒𝓋𝑒𝓂𝑒𝓃𝓉𝓈:
+---
 
-🔥 **𝒜𝓉𝓉𝑒𝓃𝒹𝑒𝒹 15+ 𝐻𝒶𝒸𝓀𝒶𝓉𝒽𝑜𝓃𝓈**
+## 🏆 Achievements:
+🔥 **Attended 15+ Hackathons**
+🎖️ **Finalist - Codes Kshetra 2.0**
+🥇 **4th Place Winner - MUJ Hacx4.0**
+🏅 **Top 15 Finalist - BrainWave DTU Hackathon**
+🏆 **Finalist - MUJ Hacx5.0**
+🚀 **Organizer - Geekathon (24-Hour Hackathon at KRMU)**
+🌍 **Organizer - Pears Global Hackathon**
 
-🎖️ **𝒻𝒾𝓃𝒶𝓁𝒾𝓈𝓉 - 𝒞𝑜𝒹𝑒𝓈 𝒦𝓈𝒽𝑒𝓉𝓇𝒶 2.0**
+---
 
-🥇 **𝟦𝓉𝒽 𝒫𝓁𝒶𝒸𝑒 𝒲𝒾𝓃𝓃𝑒𝓇 - 𝑀𝒰𝒥 𝐻𝒶𝒸𝓍4.0**  
-🏅 **𝒯𝑜𝓅 15 𝐹𝒾𝓃𝒶𝓁𝒾𝓈𝓉 - 𝐵𝓇𝒶𝒾𝓃𝒲𝒶𝓋𝑒 𝒟𝒯𝒰 𝐻𝒶𝒸𝓀𝒶𝓉𝒽𝑜𝓃**  
-🚀 **𝒪𝓇𝑔𝒶𝓃𝒾𝓏𝑒𝓇 - 𝒢𝑒𝑒𝓀𝒶𝓉𝒽𝑜𝓃 (24-𝐻𝑜𝓊𝓇 𝐻𝒶𝒸𝓀𝒶𝓉𝒽𝑜𝓃 𝒶𝓉 𝒦𝑅𝑀𝒰)**  
-🌍 **𝒪𝓇𝑔𝒶𝓃𝒾𝓏𝑒𝓇 - 𝒫𝑒𝒶𝓇𝓈 𝒢𝓁𝑜𝒷𝒶𝓁 𝐻𝒶𝒸𝓀𝒶𝓉𝒽𝑜𝓃**  
+## 📊 GitHub Stats:
+![Dewansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DewanshShaekhar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DewanshShaekhar&layout=compact&theme=radical)
 
+---
 
-### 📫 ✨ 𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝒲𝒾𝓉𝒽 𝑀𝑒:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/DewanshShaekhar](https://www.linkedin.com/in/dewansh-shekhar-singh-bb384729b/))[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DewanshShaekhar)
+🔝 **Top Contributed Repos:**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DewanshShaekhar&repo=MedTracker&theme=radical)](https://github.com/DewanshShaekhar/MedTracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DewanshShaekhar&repo=AI-Coding-Recommendation&theme=radical)](https://github.com/DewanshShaekhar/AI-Coding-Recommendation)
 
 ---
 
