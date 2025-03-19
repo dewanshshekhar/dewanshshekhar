@@ -2,7 +2,7 @@
 
 🚀 **Tech Enthusiast | AI/ML Developer | Full Stack Web Dev | Hackathon Organizer & Winner**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=DewanshShaekhar&color=blue)
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%">
 
 ## 💫 About Me:
 🔭 **I’m currently working on:**
@@ -30,6 +30,7 @@ I love participating in hackathons and building cool projects!
 ---
 
 ## 💻 Tech Stack:
+### **Programming Languages & Web Technologies:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,9 +40,18 @@ I love participating in hackathons and building cool projects!
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Machine Learning & AI:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFDA00?style=for-the-badge&logo=hugging-face&logoColor=black)
+
+### **Cloud & DevOps:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ---
@@ -57,7 +67,16 @@ I love participating in hackathons and building cool projects!
 
 ---
 
+## 📊 GitHub Stats:
+![Dewansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DewanshShaekhar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DewanshShaekhar&layout=compact&theme=radical)
 
+---
+
+🔝 **Top Contributed Repos:**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DewanshShaekhar&repo=MedTracker&theme=radical)](https://github.com/DewanshShaekhar/MedTracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DewanshShaekhar&repo=AI-Coding-Recommendation&theme=radical)](https://github.com/DewanshShaekhar/AI-Coding-Recommendation)
+
+---
 
 💻 **"𝒞𝑜𝒹𝑒, 𝐼𝓃𝓃𝑜𝓋𝒶𝓉𝑒, 𝒶𝓃𝒹 𝐵𝓊𝒾𝓁𝒹 𝒻𝑜𝓇 𝒶 𝐵𝑒𝓉𝓉𝑒𝓇 𝒯𝑜𝓂𝑜𝓇𝓇𝑜𝓌!"** 🚀
-
