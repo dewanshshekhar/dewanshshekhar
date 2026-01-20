@@ -26,6 +26,7 @@ I focus on **real-world impact**, not just demos.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,langchain,openai,huggingface" />
 </p>
+
 **Agent & LLM Tooling**  
 LangGraph, LangChain, tool-calling agents, memory & planning loops  
 
