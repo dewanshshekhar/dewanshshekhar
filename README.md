@@ -18,12 +18,23 @@ I focus on **real-world impact**, not just demos.
 ### 🛠️ Core Skills
 
 #### Programming & Engineering
-- **Python** (Advanced): Automation, ML pipelines, backend services
-- **JavaScript/TypeScript**: Node.js, React, Next.js
-- **Java/C++**: Performance-critical logic
-- **Databases**: PostgreSQL, MySQL, MongoDB
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,java,cpp,postgres,mysql,mongodb" />
+</p>
 
 #### AI & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,langchain,openai,huggingface" />
+</p>
+**Agent & LLM Tooling**  
+LangGraph, LangChain, tool-calling agents, memory & planning loops  
+
+**Retrieval & Search**  
+FAISS-style vector search, embedding pipelines, RAG / CAG / KAG  
+
+**LLM Ops**  
+Prompt versioning, evaluation, cost & latency tracking
+
 - **Frameworks**: scikit-learn, TensorFlow, PyTorch
 - **Models**: NLP, CV, tabular, transformers (GPT, BERT)
 - **Techniques**: Fine-tuning, prompt engineering, RAG/CAG/KAG
@@ -41,9 +52,13 @@ I focus on **real-world impact**, not just demos.
 - API design, sharding, infra-aware backends
 
 #### Frontend & Cloud
-- React, Next.js, Three.js, GSAP
-- Firebase, MongoDB Atlas, Google Cloud Platform
-- Auth (JWT/OAuth), CI/CD, secure backend design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,firebase,mongodb,gcp,docker,git,linux" />
+</p>
+Auth: JWT, OAuth  
+CI/CD: Git-based pipelines  
+Focus: Secure backend design and infra-aware systems
+
 
 ---
 
