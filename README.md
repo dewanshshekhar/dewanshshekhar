@@ -60,16 +60,6 @@ Auth: JWT, OAuth
 CI/CD: Git-based pipelines  
 Focus: Secure backend design and infra-aware systems
 
-
----
-
-### 🎯 How I Work
-- **Problem-first**: Start with the real constraint, not the tech stack.
-- **Design before scale**: Architecture, trade-offs, and failure paths are explicit.
-- **Iterative shipping**: Small, usable milestones over long theoretical builds.
-- **Operational mindset**: Latency, cost, observability, and maintainability matter.
-- **Clear documentation**: READMEs, diagrams, assumptions, runbooks.
-
 ---
 
 ### 🔍 Current Focus
@@ -84,6 +74,3 @@ Focus: Secure backend design and infra-aware systems
 - **Freelance/Contract**: AI systems, automation pipelines, backend architecture
 - **Advisory**: Scaling AI-first products
 - **Open-Source**: Agents, RAG tooling, AI infrastructure
-
----
-*Last updated: January 2026*
